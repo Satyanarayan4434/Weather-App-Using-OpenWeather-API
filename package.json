@@ -1,4 +1,17 @@
 {
+  "name": "discord_clone_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.2.1"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.23",
